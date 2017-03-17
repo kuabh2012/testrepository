@@ -1,2 +1,4 @@
-mkdir /root/raju
-touch raj.txt
+mkdir raju
+mkdir trest	
+echo " heloo world"
+
